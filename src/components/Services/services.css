@@ -1,0 +1,7 @@
+.box:hover{
+    background-color:white;
+    border-radius: 45px 0 45px 0;
+    box-shadow: 12px 0 18px -4px #6cd3a8 -12px 0 8px -4px #6cd3a8;
+
+}
+

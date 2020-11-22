@@ -1,0 +1,16 @@
+.main{
+  background-color: #F8FDFB;
+}
+
+h1, h5{
+  color: #0d052e;
+  font-weight: bold;
+}
+
+h1{
+  font-family: 'Yeseva One', cursive;
+}
+
+small{
+  color: gray;
+}

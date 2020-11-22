@@ -1,0 +1,18 @@
+.nav-style ul li a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight:bold;
+    /* width:50px;
+    height: 19px; */
+    color:#263F44 !important;
+    margin-left: 29px;
+}
+.nav-style ul li a:hover{
+    background-image: linear-gradient(to right, #1DD9B7 , #0AB3E1);
+    padding: 14px 29px 14px 29px !important;
+    border-radius: 22px 0px;
+    color: #fff !important;
+}
+.nav-item{
+    margin: 0 auto !important;
+}

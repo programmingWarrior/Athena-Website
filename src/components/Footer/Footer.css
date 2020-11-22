@@ -1,0 +1,78 @@
+.logo{
+    width: 125px;
+}
+
+.social-icon a img{
+    width: 20px;
+    margin: 0px 10px;
+}
+
+.link-text a, .contact p{
+    color: #626363;
+    font-size: 17px;
+}
+
+.link-text a:hover{
+    color: #505050;
+}
+
+.contact-input{
+    max-width: 600px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.gradient-btn{
+    background-image: linear-gradient(to right, #1DD9B7 , #0AB3E1);
+    padding: 10px 20px !important;
+    color: #fff !important;
+    border: none;
+}
+
+.radius-btn{
+    border-radius: 25px 0 !important;
+}
+
+.radius-div{
+    border-radius: 0 70px ;
+}
+
+.team-item{
+    border: 3px solid white;
+}
+
+.team-item span{
+    font-size: 2.5rem;
+}
+
+.team-item:hover{
+    border: 3px solid #52e9be;
+}
+
+.team-item:hover .team-btn{
+    visibility: visible !important;
+}
+
+.line{
+    width: 65%;
+    border-bottom: 2px solid #4fd1cb;
+}
+
+.achievementItem{
+    box-shadow: #d0fbe6 0px 8px 24px;
+}
+
+.achievementItem:hover{
+    background-image: linear-gradient(90deg,#0ebbdc 0,#0ebbdc 51%,#1ddbb6) !important;
+    color: white !important;
+}
+
+.services-img{
+    width: 90px;
+    height: 90px;
+}
+
+.serviceItem:hover{
+    background-color: white;
+    border-radius: 70px 0 ;
+    box-shadow: #bdf1d7 0px 8px 24px;
+}
